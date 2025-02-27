@@ -18,14 +18,14 @@
         
     }
     th {
-        background-color: darkgreen;
+        background-color: rgb(41, 15, 189);
         color: white;
     }
     tr:nth-child(even) {
-        background-color: lightgreen;
+        background-color: rgb(108, 157, 230);
     }
     tr:nth-child(odd) {
-        background-color: green;
+        background-color: rgb(13, 128, 163);
         color: white;
     }
     .keso {
