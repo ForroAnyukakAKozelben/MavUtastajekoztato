@@ -36,3 +36,10 @@ tr:nth-child(odd) {
 .szurke {
     background-color: gray;
 }
+.button {
+    width: 80px;
+    height: 30px;
+    background-color: lightgreen;
+    text-align: center;
+    text-emphasis-color:  black;
+}
